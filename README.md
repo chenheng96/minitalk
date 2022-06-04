@@ -1,4 +1,4 @@
-### minitalk:
+### minitalk
 A project that requires us to write a server and client program that can communicate to each using signals.
 
 ### Learning outcome:
